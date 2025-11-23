@@ -42,11 +42,6 @@
 
 </div>
 
-> *(Pense à créer un dossier `screenshots/` avec tes vraies captures !)*
 
-## 🚀 Lancement rapide
 
-### Desktop (JavaFX)
-```bash
-cd desktop
-./mvnw clean javafx:run
+
