@@ -1,6 +1,5 @@
 # 🛒 EspritMarket – Système de Gestion d’Épicerie Multiplateforme
 
-<img src="https://via.placeholder.com/1400x600/228B22/ffffff?text=EspritMarket+-+Gestion+d’Épicerie+Multiplateforme" alt="Bannière EspritMarket" width="100%"/>
 
 > **Projet de fin d’année – ESPRIT (Ecole Supérieure Privée d’Ingénierie et de Technologies)**  
 > Janvier 2024 → Mai 2024  
