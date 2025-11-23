@@ -34,11 +34,11 @@
 
 <div align="center">
 
-<img src="screenshots/desktop-dashboard.png" alt="Desktop - Tableau de bord" width="80%"/>
+<img src="cp1.png" alt="Desktop - Tableau de bord" width="45%"/>
 <br><br>
-<img src="screenshots/web-admin.png" alt="Web - Admin Symfony" width="45%"/> <img src="screenshots/mobile-home.png" alt="Mobile - Accueil" width="30%"/>
+<img src="cp2.png" alt="Desktop - Tableau de bord" width="45%"/>
 <br><br>
-<img src="screenshots/desktop-vente.png" alt="Desktop - Point de vente" width="45%"/> <img src="screenshots/web-stock.png" alt="Web - Gestion stock" width="45%"/>
+<img src="cp3.png" alt="Desktop - Tableau de bord" width="45%"/>
 
 </div>
 
